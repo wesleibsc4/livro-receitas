@@ -2,5 +2,5 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango
-- Bobó de camarão
+- Strogonoff de frango :chicken:
+- Bobó de camarão :fried_shrimp:
